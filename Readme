@@ -1,0 +1,4 @@
+pip install fuzzywuzzy
+pip install streamlit
+streamlit run app.py
+#To run the Streamlit app, you need to execute the streamlit run command followed by the filename of your Streamlit Python script (in this case, app.py). Here's the correct command to run your Streamlit app
